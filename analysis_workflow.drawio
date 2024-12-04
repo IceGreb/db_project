@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="25.0.1">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1114" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-1" value="RNA preprocessing" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="780" y="70" width="200" height="170" as="geometry" />
+          <mxGeometry x="780" y="70" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-2" value="Infer Strandedness" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jt7ykS_aWVsNhZBT41tZ-1" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -165,9 +165,6 @@
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-5" value="Genome contaminants removal" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="jt7ykS_aWVsNhZBT41tZ-1" vertex="1">
           <mxGeometry y="104" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jt7ykS_aWVsNhZBT41tZ-11" value="rRNA removal" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jt7ykS_aWVsNhZBT41tZ-1" vertex="1">
-          <mxGeometry y="134" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.025;exitY=0.37;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jt7ykS_aWVsNhZBT41tZ-7" target="jt7ykS_aWVsNhZBT41tZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -205,10 +202,10 @@
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-28" value="&lt;div&gt;Transmissible&lt;/div&gt;&lt;div&gt;RNA&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="401" width="80" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="ua3nPqiuhwbEZHvx7SDI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21ea969265ad0168-16" target="21ea969265ad0168-30">
+        <mxCell id="ua3nPqiuhwbEZHvx7SDI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="21ea969265ad0168-16" target="21ea969265ad0168-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ua3nPqiuhwbEZHvx7SDI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="21ea969265ad0168-30" target="21ea969265ad0168-26">
+        <mxCell id="ua3nPqiuhwbEZHvx7SDI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="21ea969265ad0168-30" target="21ea969265ad0168-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
