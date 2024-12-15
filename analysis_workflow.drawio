@@ -131,7 +131,7 @@
         </mxCell>
         <mxCell id="WkdXxYwI2kk7i8aCEtD3-12" value="Non-bee RNA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=12;" parent="21ea969265ad0168-49" vertex="1" connectable="0">
           <mxGeometry x="-0.2973" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-14" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkdXxYwI2kk7i8aCEtD3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;shadow=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" parent="1" source="6PhUnKm4TPfKqV3Mqmgi-5" target="21ea969265ad0168-6" edge="1">
@@ -166,7 +166,7 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-1" value="RNA preprocessing" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="800" y="110" width="200" height="140" as="geometry" />
+          <mxGeometry x="800" y="90" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-2" value="Infer Strandedness (salmon)" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="jt7ykS_aWVsNhZBT41tZ-1" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-7" value="&lt;div&gt;SLT&lt;/div&gt;&lt;div&gt;RNA&amp;nbsp; reads&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=0;shadow=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="10" width="80" height="100" as="geometry" />
+          <mxGeometry x="1010" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-13" value="MetaTranscriptome" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1000" y="580" width="130" height="30" as="geometry">
@@ -242,7 +242,7 @@
           <mxGeometry x="730" y="220" as="geometry" />
         </mxCell>
         <mxCell id="WkdXxYwI2kk7i8aCEtD3-15" value="&lt;div&gt;&lt;b&gt;Royal Jelly&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;RNA&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="535" y="690" width="100" height="80" as="geometry" />
+          <mxGeometry x="530" y="690" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RzAPuBb8EP-RrhVrLaLW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="21ea969265ad0168-26" target="jt7ykS_aWVsNhZBT41tZ-28" edge="1">
           <mxGeometry relative="1" as="geometry">
