@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="21ea969265ad0168-14" value="&lt;b&gt;Genome Reconstruction&lt;/b&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="321" width="210" height="130" as="geometry" />
+          <mxGeometry x="115" y="340" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RzAPuBb8EP-RrhVrLaLW-4" value="Assembly (MEGAHIT)" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="21ea969265ad0168-14" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -117,7 +117,7 @@
             <mxPoint x="720" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkdXxYwI2kk7i8aCEtD3-11" value="&lt;div&gt;Mapping of non-bee RNA&amp;nbsp;&lt;/div&gt;&lt;div&gt;to non-bee MAGs&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;fontStyle=1;labelBackgroundColor=default;labelBorderColor=none;" parent="21ea969265ad0168-44" vertex="1" connectable="0">
+        <mxCell id="WkdXxYwI2kk7i8aCEtD3-11" value="&lt;div&gt;Mapping of non-bee RNA&amp;nbsp;&lt;/div&gt;&lt;div&gt;to non-bee MAGs&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;fontStyle=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=12;" parent="21ea969265ad0168-44" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
