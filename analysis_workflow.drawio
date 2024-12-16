@@ -187,7 +187,7 @@
           <mxGeometry x="1010" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-13" value="MetaTranscriptome" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1000" y="580" width="130" height="30" as="geometry">
+          <mxGeometry x="280" y="590" width="130" height="30" as="geometry">
             <mxRectangle x="1000" y="580" width="130" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -254,7 +254,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzAPuBb8EP-RrhVrLaLW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="rCyqSnBFEm6M69R7qKbM-7" target="jt7ykS_aWVsNhZBT41tZ-13" edge="1">
+        <mxCell id="RzAPuBb8EP-RrhVrLaLW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;exitX=-0.004;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="21ea969265ad0168-29" target="jt7ykS_aWVsNhZBT41tZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
