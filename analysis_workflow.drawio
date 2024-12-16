@@ -188,7 +188,7 @@
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-13" value="MetaTranscriptome" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1000" y="580" width="130" height="30" as="geometry">
-            <mxRectangle x="730" y="580" width="130" height="110" as="alternateBounds" />
+            <mxRectangle x="1000" y="580" width="130" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt7ykS_aWVsNhZBT41tZ-14" value="rRNA" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jt7ykS_aWVsNhZBT41tZ-13" vertex="1">
